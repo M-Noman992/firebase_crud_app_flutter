@@ -1,0 +1,11 @@
+# Mark platform-specific folders as vendored to hide them from language statistics
+android/** linguist-vendored
+ios/** linguist-vendored
+windows/** linguist-vendored
+linux/** linguist-vendored
+macos/** linguist-vendored
+web/** linguist-vendored
+
+# Also ignore build artifacts and lock files
+pubspec.lock linguist-vendored
+.metadata linguist-vendored
