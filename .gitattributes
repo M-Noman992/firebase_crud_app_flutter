@@ -5,7 +5,3 @@ windows/** linguist-vendored
 linux/** linguist-vendored
 macos/** linguist-vendored
 web/** linguist-vendored
-
-# Also ignore build artifacts and lock files
-pubspec.lock linguist-vendored
-.metadata linguist-vendored
