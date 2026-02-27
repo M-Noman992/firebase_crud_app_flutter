@@ -4,7 +4,7 @@ A comprehensive Flutter application demonstrating Firebase CRUD operations (Stor
 
 ---
 
-## 🛠 Prerequisites & Installation
+## Prerequisites & Installation
 
 Before running this project, ensure you have:
 
@@ -12,7 +12,7 @@ Before running this project, ensure you have:
 - A configured Firebase project
 - Android Studio or VS Code
 
-### 🚀 Run the Project
+### Run the Project
 
 ```bash
 flutter pub get
